@@ -1,5 +1,5 @@
 
-# Full Adder — Tài liệu khoa học ngắn gọn
+# Full Adder 
 
 Mục tiêu: mô tả, phân tích và kiểm chứng mạch cộng đầy đủ (full adder) gồm 3 ngõ vào (A, B, CI) và 2 ngõ ra (S, CO).
 
