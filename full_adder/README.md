@@ -1,4 +1,3 @@
-// ...existing code...
 
 # Full Adder — Tài liệu khoa học ngắn gọn
 
@@ -15,8 +14,7 @@ Giải thích ngắn: S là phép cộng modulo-2 của ba bit, CO xuất hiện
 ![alt text](image.png)
 
 ## 3. Sơ đồ khối
-![alt text](image-1.png)ai bằng cổng XOR, AND, OR hoặc bằng cấu trúc hai nửa-adder.
-
+![alt text](image-1.png)
 ## 4. Mã Verilog (mô-đun thực tế)
 
 
